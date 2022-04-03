@@ -31,19 +31,17 @@
                 <p class="summaryBottom">Won</p>
                 <p class="summaryBottom">Win %</p>
             </div>
-            <hr>
         </section>
+        <hr>
         <section class="distributionSection">
             <p>Guess Distribution</p>
             <div class="distributionDiv">
-                <div>1</div>
-                <div class="numpadItem">0</div>
-                <div class="numpadItem">0</div>
-                <div class="numpadItem">0</div>
-                <div class="numpadItem">0</div>
-                <div class="numpadItem">0</div>
-                <div class="numpadItem">0</div>
-                <div class="numpadItem">0</div>
+                <div class="distributionRow">1<span class="distributionItem">0</span></div>
+                <div class="distributionRow">2<span class="distributionItem">0</span></div>
+                <div class="distributionRow">3<span class="distributionItem">0</span></div>
+                <div class="distributionRow">4<span class="distributionItem">0</span></div>
+                <div class="distributionRow">5<span class="distributionItem">0</span></div>
+                <div class="distributionRow">6<span class="distributionItem">0</span></div>
             </div>
         </section>
     </div>
